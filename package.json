@@ -1,0 +1,25 @@
+{
+  "name": "@gunesozdogan/dynamic-drop-down-menu",
+  "version": "1.0.0",
+  "description": "Create a dynamic drop down menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunesozdogan/dynamic-drop-down-menu.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Güneş Oktay Özdoğan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunesozdogan/dynamic-drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/gunesozdogan/dynamic-drop-down-menu#readme",
+  "prettier": {
+    "singleQuote": true
+  }
+}

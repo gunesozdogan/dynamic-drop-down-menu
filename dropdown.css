@@ -1,0 +1,37 @@
+.container {
+  background-color: #eee;
+  position: relative;
+  height: 20px;
+}
+
+.visible .wrapper {
+  transition: max-height 0.5s ease-in;
+  max-height: 200px;
+  background-color: #eee;
+}
+
+.wrapper {
+  max-height: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+}
+
+.item:link,
+.item:visited {
+  margin-top: 0;
+  display: block;
+  padding: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  background-color: inherit;
+  color: #222;
+  width: 100%;
+}
+
+.item:hover,
+.item:active {
+  color: #000;
+  font-weight: bold;
+}
