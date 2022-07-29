@@ -1,6 +1,6 @@
 {
   "name": "@gunesozdogan/dynamic-drop-down-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a dynamic drop down menu",
   "main": "index.js",
   "scripts": {
